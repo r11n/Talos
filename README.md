@@ -1,10 +1,10 @@
 # Talos
 A deep learning engine
 ## modules
-|Name               |Started|Ready|
-|-------------------|-------|-----|
-|OCR                |  [ ]  | [ ] |
-|Image Recognition  |  [ ]  | [ ] |
-|Intent Recognition |  [ ]  | [ ] |
-|Speech Recognition |  [ ]  | [ ] |
-|Conversation       |  [ ]  | [ ] |
+|Name               |Started         |Working       |
+|-------------------|----------------|--------------|
+|OCR                |  - [ ] Ready?  | - [ ] Ready? |
+|Image Recognition  |  - [ ] Ready?  | - [ ] Ready? |
+|Intent Recognition |  - [ ] Ready?  | - [ ] Ready? |
+|Speech Recognition |  - [ ] Ready?  | - [ ] Ready? |
+|Conversation       |  - [ ] Ready?  | - [ ] Ready? |
